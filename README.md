@@ -1,1 +1,1 @@
-# structure-twig-sass-webpack
+# structure-pug-sass-webpack
